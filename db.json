@@ -1,0 +1,40 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Air Max 90",
+      "description": "Classic running shoes with cushioned sole and sleek design.",
+      "price": 120.99
+    },
+    {
+      "id": 2,
+      "title": "Adidas Ultraboost",
+      "description": "Comfortable and stylish shoes perfect for running and casual wear.",
+      "price": 180.0
+    },
+    {
+      "id": 3,
+      "title": "Puma RS-X",
+      "description": "Futuristic design with bold color-blocking and great comfort.",
+      "price": 150.75
+    },
+    {
+      "id": 4,
+      "title": "New Balance 574",
+      "description": "Classic retro sneakers with premium materials and durable sole.",
+      "price": 89.99
+    },
+    {
+      "id": 5,
+      "title": "Nike Air Jordan 1",
+      "description": "Iconic basketball shoes with high ankle support and premium leather.",
+      "price": 200.5
+    },
+    {
+      "id": 6,
+      "title": "Converse Chuck Taylor",
+      "description": "Timeless high-top sneakers with a canvas upper and rubber sole.",
+      "price": 65.0
+    }
+  ]
+}
